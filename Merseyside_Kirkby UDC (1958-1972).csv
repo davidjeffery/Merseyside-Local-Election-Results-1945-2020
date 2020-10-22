@@ -1,0 +1,570 @@
+﻿id,election_id,upper_tier,lower_tier,current_council,year,ward_id,ward_name,candidate,party,vote,female,vacancies,rank,electorate,ballots_cast,turnout,vote_share,source,notes
+kirk001,1958kirk1001,Lancashire,Kirkby,Knowsley,1958,kirk1001,Central,Mrs E. B. Rose,Lab,1434,1,3,1,,4437,,96.95741,,
+kirk002,1958kirk1001,Lancashire,Kirkby,Knowsley,1958,kirk1001,Central,P. H. Withington,Lab,1280,0,3,2,,4437,,86.54496,,
+kirk003,1958kirk1001,Lancashire,Kirkby,Knowsley,1958,kirk1001,Central,J. Nugent,Lab,1203,0,3,3,,4437,,81.33875,,
+kirk004,1958kirk1001,Lancashire,Kirkby,Knowsley,1958,kirk1001,Central,F. V. Wynne,Con,348,0,3,4,,4437,,23.52941,,
+kirk005,1958kirk1001,Lancashire,Kirkby,Knowsley,1958,kirk1001,Central,J. G. Houghton,Comm,172,0,3,5,,4437,,11.62948,,
+kirk006,1958kirk1002,Lancashire,Kirkby,Knowsley,1958,kirk1002,Cherryfield,J. Wylie,Lab,1183,0,3,1,,3736,,94.99464,,
+kirk007,1958kirk1002,Lancashire,Kirkby,Knowsley,1958,kirk1002,Cherryfield,D. J. Cullis,Lab,1079,0,3,2,,3736,,86.64347,,
+kirk008,1958kirk1002,Lancashire,Kirkby,Knowsley,1958,kirk1002,Cherryfield,A. Cook,Lab,1071,0,3,3,,3736,,86.00107,,
+kirk009,1958kirk1002,Lancashire,Kirkby,Knowsley,1958,kirk1002,Cherryfield,Mrs M. Sprong,Con,274,1,3,4,,3736,,22.00214,,
+kirk010,1958kirk1002,Lancashire,Kirkby,Knowsley,1958,kirk1002,Cherryfield,G.. W. Gamble,Comm,129,0,3,5,,3736,,10.35867,,
+kirk011,1958kirk1003,Lancashire,Kirkby,Knowsley,1958,kirk1003,Minstead,Mrs M. J. Deering,Lab,668,1,3,1,,2499,,80.19208,,
+kirk012,1958kirk1003,Lancashire,Kirkby,Knowsley,1958,kirk1003,Minstead,F. Lawler,Lab,640,0,3,2,,2499,,76.83073,,
+kirk013,1958kirk1003,Lancashire,Kirkby,Knowsley,1958,kirk1003,Minstead,J. G. Keyes,Lab,606,0,3,3,,2499,,72.7491,,
+kirk014,1958kirk1003,Lancashire,Kirkby,Knowsley,1958,kirk1003,Minstead,H. Ashcroft,Con,299,0,3,4,,2499,,35.89436,,
+kirk015,1958kirk1003,Lancashire,Kirkby,Knowsley,1958,kirk1003,Minstead,Mrs E. A. Evans,Con,286,1,3,5,,2499,,34.33373,,
+kirk016,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,T. W. Martland,Con,131,0,2,1,,565,,46.37168,,
+kirk017,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,G. Bundred,Lab,127,0,2,2,,565,,44.95575,,
+kirk018,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,W. Chisnall,Con,113,0,2,3,,565,,40,,
+kirk019,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,J. Chambers,Lab,85,0,2,4,,565,,30.0885,,
+kirk020,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,W. P. Breckenridge,Ind,68,0,2,5,,565,,24.0708,,
+kirk021,1958kirk1004,Lancashire,Kirkby,Knowsley,1958,kirk1004,Northwood,J. J. Goodwin,Ind,41,0,2,6,,565,,14.51327,,
+kirk022,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,W. Rogers,Lab,505,0,3,1,,2609,,58.06823,,
+kirk023,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,C. Rohan,Lab,494,0,3,2,,2609,,56.80337,,
+kirk024,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,J. Fraser,Lab,471,0,3,3,,2609,,54.15868,,
+kirk025,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,J. C. Wess,Con,420,0,3,4,,2609,,48.29436,,
+kirk026,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,J. Atherton,Con,360,0,3,5,,2609,,41.39517,,
+kirk027,1958kirk1005,Lancashire,Kirkby,Knowsley,1958,kirk1005,Park,L. Etches,Con,359,0,3,6,,2609,,41.28019,,
+kirk028,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,T. Sayle,Lab,1036,0,3,1,,4156,,74.78345,,
+kirk029,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,J. A. Pearce,Lab,1004,0,3,2,,4156,,72.47353,,
+kirk030,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,D. Tempest,Lab,962,0,3,3,,4156,,69.44177,,
+kirk031,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,S. Wilson,Ind,614,0,3,4,,4156,,44.32146,,
+kirk032,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,C. G. McDonald,Con,336,0,3,5,,4156,,24.25409,,
+kirk033,1958kirk1006,Lancashire,Kirkby,Knowsley,1958,kirk1006,Whitefield,W. J. Thornhill,Con,204,0,3,6,,4156,,14.7257,,
+kirk034,1959kirk1001,Lancashire,Kirkby,Knowsley,1959,kirk1001,Central,J. Nugent,Lab,765,0,1,1,,988,,77.42915,,
+kirk035,1959kirk1001,Lancashire,Kirkby,Knowsley,1959,kirk1001,Central,W. Chisnell,Ind,170,0,1,2,,988,,17.20648,,
+kirk036,1959kirk1001,Lancashire,Kirkby,Knowsley,1959,kirk1001,Central,J. Houghton,Comm,53,0,1,3,,988,,5.364372,,
+kirk037,1959kirk1002,Lancashire,Kirkby,Knowsley,1959,kirk1002,Cherryfield,A. Cook,Lab,549,0,1,1,,588,,93.36735,,
+kirk038,1959kirk1002,Lancashire,Kirkby,Knowsley,1959,kirk1002,Cherryfield,J. W. Gamble,Comm,39,0,1,2,,588,,6.632653,,
+kirk039,1959kirk1003,Lancashire,Kirkby,Knowsley,1959,kirk1003,Minstead,J. G. Keys,Lab,891,0,1,1,,1064,,83.7406,,
+kirk040,1959kirk1003,Lancashire,Kirkby,Knowsley,1959,kirk1003,Minstead,T. J. Cartlidge,Ind,173,0,1,2,,1064,,16.2594,,
+kirk041,1959kirk1005,Lancashire,Kirkby,Knowsley,1959,kirk1005,Park,T. Bentley,Lab,543,0,1,1,,950,,57.15789,,
+kirk042,1959kirk1005,Lancashire,Kirkby,Knowsley,1959,kirk1005,Park,P. Roche,Con,407,0,1,2,,950,,42.84211,,
+kirk043,1959kirk1006,Lancashire,Kirkby,Knowsley,1959,kirk1006,Whitefield,D. Tempset,Lab,638,0,1,1,,1180,,54.06779,,
+kirk044,1959kirk1006,Lancashire,Kirkby,Knowsley,1959,kirk1006,Whitefield,S. Wilson,Ind,542,0,1,2,,1180,,45.93221,,
+kirk045,1960kirk1001,Lancashire,Kirkby,Knowsley,1960,kirk1001,Central,P. H. Withington,Lab,641,0,2,1,,2164,,59.24215,,
+kirk046,1960kirk1001,Lancashire,Kirkby,Knowsley,1960,kirk1001,Central,W. Marshall,Lab,616,0,2,2,,2164,,56.93161,,
+kirk047,1960kirk1001,Lancashire,Kirkby,Knowsley,1960,kirk1001,Central,A. Wearing,Con,437,0,2,3,,2164,,40.38817,,
+kirk048,1960kirk1001,Lancashire,Kirkby,Knowsley,1960,kirk1001,Central,A. J. Taylor,Con,408,0,2,4,,2164,,37.70795,,
+kirk049,1960kirk1001,Lancashire,Kirkby,Knowsley,1960,kirk1001,Central,J. G. Houghton,Comm,62,0,2,5,,2164,,5.730129,,
+kirk050,1960kirk1002,Lancashire,Kirkby,Knowsley,1960,kirk1002,Cherryfield,J. O'Neill,Lab,645,0,1,1,,1017,,63.42183,,
+kirk051,1960kirk1002,Lancashire,Kirkby,Knowsley,1960,kirk1002,Cherryfield,A. C. P. Stewart,Con,335,0,1,2,,1017,,32.94002,,
+kirk052,1960kirk1002,Lancashire,Kirkby,Knowsley,1960,kirk1002,Cherryfield,J. W. Gamble,Comm,37,0,1,3,,1017,,3.638151,,
+kirk053,1960kirk1003,Lancashire,Kirkby,Knowsley,1960,kirk1003,Minstead,F. Lawler,Lab,692,0,1,1,,1045,,66.22009,,
+kirk054,1960kirk1003,Lancashire,Kirkby,Knowsley,1960,kirk1003,Minstead,R. J. Knox,Con,353,0,1,2,,1045,,33.7799,,
+kirk055,1960kirk1004,Lancashire,Kirkby,Knowsley,1960,kirk1004,Northwood,G. Bundred,Lab,460,0,2,1,,1387,,66.33021,,
+kirk056,1960kirk1004,Lancashire,Kirkby,Knowsley,1960,kirk1004,Northwood,P. McKenna,Lab,433,0,2,2,,1387,,62.43691,,
+kirk058,1960kirk1004,Lancashire,Kirkby,Knowsley,1960,kirk1004,Northwood,E. H. Gaskell,Con,259,0,2,3,,1387,,37.34679,,
+kirk057,1960kirk1004,Lancashire,Kirkby,Knowsley,1960,kirk1004,Northwood,W. C. Cresswell,Con,235,0,2,4,,1387,,33.88609,,
+kirk059,1960kirk1005,Lancashire,Kirkby,Knowsley,1960,kirk1005,Park,L. Wakinson,Lab,509,0,1,1,,956,,53.24268,,
+kirk060,1960kirk1005,Lancashire,Kirkby,Knowsley,1960,kirk1005,Park,P. Roache,Con,447,0,1,2,,956,,46.75732,,
+kirk061,1960kirk1006,Lancashire,Kirkby,Knowsley,1960,kirk1006,Whitefield,S. Wilson,R.A.,673,0,1,1,,1160,,58.01724,,
+kirk062,1960kirk1006,Lancashire,Kirkby,Knowsley,1960,kirk1006,Whitefield,J. A. Pearce,Lab,487,0,1,2,,1160,,41.98276,,
+kirk063,1961kirk1001,Lancashire,Kirkby,Knowsley,1961,kirk1001,Central,W. Marshall,Lab,597,0,1,1,,953,,62.64428,,
+kirk064,1961kirk1001,Lancashire,Kirkby,Knowsley,1961,kirk1001,Central,A. J. Taylor,Con,301,0,1,2,,953,,31.58447,,
+kirk065,1961kirk1001,Lancashire,Kirkby,Knowsley,1961,kirk1001,Central,J. G. Houghton,Comm,55,0,1,3,,953,,5.771249,,
+kirk066,1961kirk1002,Lancashire,Kirkby,Knowsley,1961,kirk1002,Cherryfield,J. Wylie,Lab,508,0,1,1,,1016,,50,,
+kirk067,1961kirk1002,Lancashire,Kirkby,Knowsley,1961,kirk1002,Cherryfield,Dr Marion L. Clarke,Con,483,0,1,2,,1016,,47.53937,,
+kirk068,1961kirk1002,Lancashire,Kirkby,Knowsley,1961,kirk1002,Cherryfield,J. W. Gamble,Comm,25,0,1,3,,1016,,2.46063,,
+kirk069,1961kirk1003,Lancashire,Kirkby,Knowsley,1961,kirk1003,Minstead,Mrs M. J. Deering,Lab,672,1,1,1,,968,,69.42149,,
+kirk070,1961kirk1003,Lancashire,Kirkby,Knowsley,1961,kirk1003,Minstead,A. Wearing,Con,230,0,1,2,,968,,23.76033,,
+kirk071,1961kirk1003,Lancashire,Kirkby,Knowsley,1961,kirk1003,Minstead,H. Houghton,Comm,66,0,1,3,,968,,6.818182,,
+kirk072,1961kirk1004,Lancashire,Kirkby,Knowsley,1961,kirk1004,Northwood,Mrs J. Hunter,Lab,486,1,1,1,,704,,69.03409,,
+kirk073,1961kirk1004,Lancashire,Kirkby,Knowsley,1961,kirk1004,Northwood,W. G. Creswell,Con,195,0,1,2,,704,,27.69886,,
+kirk074,1961kirk1004,Lancashire,Kirkby,Knowsley,1961,kirk1004,Northwood,T. W. Staples,Comm,23,0,1,3,,704,,3.267045,,
+kirk075,1961kirk1005,Lancashire,Kirkby,Knowsley,1961,kirk1005,Park,W. Rogers,Lab,426,0,1,1,,804,,52.98507,,
+kirk076,1961kirk1005,Lancashire,Kirkby,Knowsley,1961,kirk1005,Park,T. W. Martland,Con,378,0,1,2,,804,,47.01493,,
+kirk077,1961kirk1006,Lancashire,Kirkby,Knowsley,1961,kirk1006,Whitefield,T. Sayle,Lab,582,0,1,1,,1014,,57.39645,,
+kirk078,1961kirk1006,Lancashire,Kirkby,Knowsley,1961,kirk1006,Whitefield,G. R. Orton,Con,432,0,1,2,,1014,,42.60355,,
+kirk079,1962kirk1001,Lancashire,Kirkby,Knowsley,1962,kirk1001,Central,J. Nugent,Lab,859,0,1,1,,932,,92.16738,,
+kirk080,1962kirk1001,Lancashire,Kirkby,Knowsley,1962,kirk1001,Central,J. G. Houghton,Comm,73,0,1,2,,932,,7.832618,,
+kirk081,1962kirk1002,Lancashire,Kirkby,Knowsley,1962,kirk1002,Cherryfield,A. Cook,Lab,1014,0,1,1,,1616,,62.74752,,
+kirk082,1962kirk1002,Lancashire,Kirkby,Knowsley,1962,kirk1002,Cherryfield,Dr M. L. Clark,Con,548,0,1,2,,1616,,33.91089,,
+kirk083,1962kirk1002,Lancashire,Kirkby,Knowsley,1962,kirk1002,Cherryfield,J. W. Gamble,Comm,54,0,1,3,,1616,,3.341584,,
+kirk084,1962kirk1003,Lancashire,Kirkby,Knowsley,1962,kirk1003,Minstead,J. G Keys,Lab,840,0,1,1,,934,,89.93576,,
+kirk085,1962kirk1003,Lancashire,Kirkby,Knowsley,1962,kirk1003,Minstead,H. Houghton,Comm,94,0,1,2,,934,,10.06424,,
+kirk086,1962kirk1004,Lancashire,Kirkby,Knowsley,1962,kirk1004,Northwood,J. T. Chambers,Lab,596,0,1,1,,652,,91.41104,,
+kirk087,1962kirk1004,Lancashire,Kirkby,Knowsley,1962,kirk1004,Northwood,T. W. Staples,Comm,56,0,1,2,,652,,8.588957,,
+kirk088,1962kirk1005,Lancashire,Kirkby,Knowsley,1962,kirk1005,Park,T. Bentley,Lab,778,0,1,1,,1150,,67.65218,,
+kirk089,1962kirk1005,Lancashire,Kirkby,Knowsley,1962,kirk1005,Park,D. W. Richie,Con,336,0,1,2,,1150,,29.21739,,
+kirk090,1962kirk1005,Lancashire,Kirkby,Knowsley,1962,kirk1005,Park,S.  Donnelly,Comm,36,0,1,3,,1150,,3.130435,,
+kirk091,1962kirk1006,Lancashire,Kirkby,Knowsley,1962,kirk1006,Whitefield,D. Tempest,Lab,1227,0,1,1,,1719,,71.37871,,
+kirk092,1962kirk1006,Lancashire,Kirkby,Knowsley,1962,kirk1006,Whitefield,T. W. Martland,Con,438,0,1,2,,1719,,25.47993,,
+kirk093,1962kirk1006,Lancashire,Kirkby,Knowsley,1962,kirk1006,Whitefield,J. Myers,Comm,54,0,1,3,,1719,,3.141361,,
+kirk094,1963kirk1001,Lancashire,Kirkby,Knowsley,1963,kirk1001,Central,Mrs E. B. Rose,Lab,994,1,1,1,,1153,,86.20988,,
+kirk095,1963kirk1001,Lancashire,Kirkby,Knowsley,1963,kirk1001,Central,Mrs J. B. Taylor,Con,132,1,1,2,,1153,,11.4484,,
+kirk096,1963kirk1001,Lancashire,Kirkby,Knowsley,1963,kirk1001,Central,T. Staples,Comm,27,0,1,3,,1153,,2.341717,,
+kirk097,1963kirk1002,Lancashire,Kirkby,Knowsley,1963,kirk1002,Cherryfield,J. O'Neill,Lab,859,0,1,1,,1019,,84.29833,,
+kirk098,1963kirk1002,Lancashire,Kirkby,Knowsley,1963,kirk1002,Cherryfield,P. A. Shelton,Con,91,0,1,2,,1019,,8.930324,,
+kirk099,1963kirk1002,Lancashire,Kirkby,Knowsley,1963,kirk1002,Cherryfield,J. Houghton,Comm,46,0,1,3,,1019,,4.51423,,
+kirk100,1963kirk1002,Lancashire,Kirkby,Knowsley,1963,kirk1002,Cherryfield,E. Lee,Ind,23,0,1,4,,1019,,2.257115,,
+kirk101,1963kirk1003,Lancashire,Kirkby,Knowsley,1963,kirk1003,Minstead,F. Lawler,Lab,874,0,1,1,,961,,90.94693,,
+kirk102,1963kirk1003,Lancashire,Kirkby,Knowsley,1963,kirk1003,Minstead,W. McEvoy,Comm,87,0,1,2,,961,,9.05307,,
+kirk103,1963kirk1004,Lancashire,Kirkby,Knowsley,1963,kirk1004,Northwood,G. Brundred,Lab,682,0,1,1,,787,,86.6582,,
+kirk104,1963kirk1004,Lancashire,Kirkby,Knowsley,1963,kirk1004,Northwood,A. F. J. Dray,Con,56,0,1,2,,787,,7.115629,,
+kirk105,1963kirk1004,Lancashire,Kirkby,Knowsley,1963,kirk1004,Northwood,H. Houghton,Comm,49,0,1,3,,787,,6.226175,,
+kirk106,1963kirk1005,Lancashire,Kirkby,Knowsley,1963,kirk1005,Park,A. Thomas,Lab,736,0,1,1,,1062,,69.3032,,
+kirk107,1963kirk1005,Lancashire,Kirkby,Knowsley,1963,kirk1005,Park,A. J. Taylor,Con,269,0,1,2,,1062,,25.32957,,
+kirk108,1963kirk1005,Lancashire,Kirkby,Knowsley,1963,kirk1005,Park,R. Keary,Ind,35,0,1,3,,1062,,3.295669,,
+kirk109,1963kirk1005,Lancashire,Kirkby,Knowsley,1963,kirk1005,Park,S. Donnelly,Comm,22,0,1,4,,1062,,2.071563,,
+kirk110,1963kirk1006,Lancashire,Kirkby,Knowsley,1963,kirk1006,Whitefield,R. Orrett,Lab,702,0,1,1,,1325,,52.98113,,
+kirk111,1963kirk1006,Lancashire,Kirkby,Knowsley,1963,kirk1006,Whitefield,S. Wilson,Ind,575,0,1,2,,1325,,43.39622,,
+kirk112,1963kirk1006,Lancashire,Kirkby,Knowsley,1963,kirk1006,Whitefield,J. Myers,Comm,48,0,1,3,,1325,,3.622642,,
+kirk113,1964kirk1001,Lancashire,Kirkby,Knowsley,1964,kirk1001,Central,W. Marshall,Lab,631,0,1,1,,820,,76.95122,,
+kirk114,1964kirk1001,Lancashire,Kirkby,Knowsley,1964,kirk1001,Central,S. Denton,Con,153,0,1,2,,820,,18.65854,,
+kirk115,1964kirk1001,Lancashire,Kirkby,Knowsley,1964,kirk1001,Central,J. G. Houghton,Comm,36,0,1,3,,820,,4.390244,,
+kirk116,1964kirk1002,Lancashire,Kirkby,Knowsley,1964,kirk1002,Cherryfield,E. Hardisty,Lab,769,0,1,1,,991,,77.59839,,
+kirk117,1964kirk1002,Lancashire,Kirkby,Knowsley,1964,kirk1002,Cherryfield,A. Stewart,Con,180,0,1,2,,991,,18.16347,,
+kirk118,1964kirk1002,Lancashire,Kirkby,Knowsley,1964,kirk1002,Cherryfield,J. Myers,Comm,42,0,1,3,,991,,4.238143,,
+kirk119,1964kirk1003,Lancashire,Kirkby,Knowsley,1964,kirk1003,Minstead,W. Lee,Lab,687,0,1,1,,854,,80.44496,,
+kirk120,1964kirk1003,Lancashire,Kirkby,Knowsley,1964,kirk1003,Minstead,Mrs M. E. Parkinson,Con,99,1,1,2,,854,,11.59251,,
+kirk121,1964kirk1003,Lancashire,Kirkby,Knowsley,1964,kirk1003,Minstead,S. Donnelly,Comm,68,0,1,3,,854,,7.962529,,
+kirk122,1964kirk1004,Lancashire,Kirkby,Knowsley,1964,kirk1004,Northwood,Mrs J. Hunter,Lab,367,1,1,1,,596,,61.57718,,
+kirk123,1964kirk1004,Lancashire,Kirkby,Knowsley,1964,kirk1004,Northwood,L. Gardiner,Lib,127,0,1,2,,596,,21.30873,,
+kirk124,1964kirk1004,Lancashire,Kirkby,Knowsley,1964,kirk1004,Northwood,A. E. Dray,Con,69,0,1,3,,596,,11.57718,,
+kirk125,1964kirk1004,Lancashire,Kirkby,Knowsley,1964,kirk1004,Northwood,J. W. Gamble,Comm,33,0,1,4,,596,,5.536913,,
+kirk126,1964kirk1005,Lancashire,Kirkby,Knowsley,1964,kirk1005,Park,W. Rogers,Lab,549,0,1,1,,968,,56.71487,,
+kirk127,1964kirk1005,Lancashire,Kirkby,Knowsley,1964,kirk1005,Park,R. Tomlinson,Lib,208,0,1,2,,968,,21.4876,,
+kirk128,1964kirk1005,Lancashire,Kirkby,Knowsley,1964,kirk1005,Park,A. J. Taylor,Con,183,0,1,3,,968,,18.90496,,
+kirk129,1964kirk1005,Lancashire,Kirkby,Knowsley,1964,kirk1005,Park,F. Cunningham,Comm,28,0,1,4,,968,,2.892562,,
+kirk130,1964kirk1006,Lancashire,Kirkby,Knowsley,1964,kirk1006,Whitefield,T. Sayle,Lab,807,0,1,1,,1127,,71.60603,,
+kirk131,1964kirk1006,Lancashire,Kirkby,Knowsley,1964,kirk1006,Whitefield,W. Tomlinson,Lib,278,0,1,2,,1127,,24.66726,,
+kirk132,1964kirk1006,Lancashire,Kirkby,Knowsley,1964,kirk1006,Whitefield,D. Howe,Comm,42,0,1,3,,1127,,3.726708,,
+kirk135,1965kirk1001,Lancashire,Kirkby,Knowsley,1965,kirk1001,Central,J. Gamble,Com,,0,1,,,0,,,,
+kirk133,1965kirk1001,Lancashire,Kirkby,Knowsley,1965,kirk1001,Central,J. Nugent,Lab,,0,1,,,0,,,,
+kirk134,1965kirk1001,Lancashire,Kirkby,Knowsley,1965,kirk1001,Central,S. Denton,Con,,0,1,,,0,,,,
+kirk136,1965kirk1002,Lancashire,Kirkby,Knowsley,1965,kirk1002,Cherryfield,A. Cook,Lab,,0,1,,,0,,,,
+kirk137,1965kirk1002,Lancashire,Kirkby,Knowsley,1965,kirk1002,Cherryfield,A. Stewart,Con,,0,1,,,0,,,,
+kirk138,1965kirk1002,Lancashire,Kirkby,Knowsley,1965,kirk1002,Cherryfield,J. Myers,Com,,0,1,,,0,,,,
+kirk140,1965kirk1003,Lancashire,Kirkby,Knowsley,1965,kirk1003,Minstead,Mrs M Parkinson,Con,,1,1,,,0,,,,
+kirk139,1965kirk1003,Lancashire,Kirkby,Knowsley,1965,kirk1003,Minstead,J. Keys,Lab,,0,1,,,0,,,,
+kirk141,1965kirk1003,Lancashire,Kirkby,Knowsley,1965,kirk1003,Minstead,S. Donnelly,Comm,,0,1,,,0,,,,
+kirk142,1965kirk1004,Lancashire,Kirkby,Knowsley,1965,kirk1004,Northwood,J. Chambers,Lab,380,0,1,1,,635,,59.84252,,
+kirk143,1965kirk1004,Lancashire,Kirkby,Knowsley,1965,kirk1004,Northwood,L. Gardiner,Lib,227,0,1,2,,635,,35.74803,,
+kirk144,1965kirk1004,Lancashire,Kirkby,Knowsley,1965,kirk1004,Northwood,S. Leyland,Comm,28,0,1,3,,635,,4.409449,,
+kirk145,1965kirk1005,Lancashire,Kirkby,Knowsley,1965,kirk1005,Park,J. Hackett,Lab,,0,1,,,,,,,
+kirk146,1965kirk1005,Lancashire,Kirkby,Knowsley,1965,kirk1005,Park,R. Tomlinson,Lib,,0,1,,,,,,,
+kirk148,1965kirk1005,Lancashire,Kirkby,Knowsley,1965,kirk1005,Park,M. Cunningham,Comm,,0,1,,,,,,,
+kirk147,1965kirk1005,Lancashire,Kirkby,Knowsley,1965,kirk1005,Park,H. Butterworth,Con,,0,1,,,,,,,
+kirk149,1965kirk1006,Lancashire,Kirkby,Knowsley,1965,kirk1006,Whitefield,D. Tempest,Lab,585,0,1,1,,965,,60.62176,,
+kirk150,1965kirk1006,Lancashire,Kirkby,Knowsley,1965,kirk1006,Whitefield,W. Tomlinson,Lib,347,0,1,2,,965,,35.95855,,
+kirk151,1965kirk1006,Lancashire,Kirkby,Knowsley,1965,kirk1006,Whitefield,J. G. Houghton,Comm,33,0,1,3,,965,,3.419689,,
+kirk152,1966kirk1001,Lancashire,Kirkby,Knowsley,1966,kirk1001,Central,E. Rose,Lab,415,0,1,1,,503,,82.50497,,
+kirk153,1966kirk1001,Lancashire,Kirkby,Knowsley,1966,kirk1001,Central,S. Denton,Con,63,0,1,2,,503,,12.52485,,
+kirk154,1966kirk1001,Lancashire,Kirkby,Knowsley,1966,kirk1001,Central,J. Gamble,Comm,25,0,1,3,,503,,4.970179,,
+kirk155,1966kirk1002,Lancashire,Kirkby,Knowsley,1966,kirk1002,Cherryfield,J. King,Lab,335,0,1,1,,375,,89.33334,,
+kirk156,1966kirk1002,Lancashire,Kirkby,Knowsley,1966,kirk1002,Cherryfield,J. Myers,Comm,40,0,1,2,,375,,10.66667,,
+kirk157,1966kirk1003,Lancashire,Kirkby,Knowsley,1966,kirk1003,Minstead,F. Lawlor,Lab,335,0,1,1,,550,,60.90909,,
+kirk158,1966kirk1003,Lancashire,Kirkby,Knowsley,1966,kirk1003,Minstead,R. McGee,Lib,177,0,1,2,,550,,32.18182,,
+kirk159,1966kirk1003,Lancashire,Kirkby,Knowsley,1966,kirk1003,Minstead,S. Donnelly,Comm,38,0,1,3,,550,,6.909091,,
+kirk160,1966kirk1004,Lancashire,Kirkby,Knowsley,1966,kirk1004,Northwood,G. Bundred,Lab,347,0,1,1,,600,,57.83333,,
+kirk161,1966kirk1004,Lancashire,Kirkby,Knowsley,1966,kirk1004,Northwood,V.Crowley,Lib,201,0,1,2,,600,,33.5,,
+kirk162,1966kirk1004,Lancashire,Kirkby,Knowsley,1966,kirk1004,Northwood,S. Leyland,Comm,28,0,1,3,,600,,4.666667,,
+kirk163,1966kirk1004,Lancashire,Kirkby,Knowsley,1966,kirk1004,Northwood,A. Dray,Con,24,0,1,4,,600,,4,,
+kirk164,1966kirk1005,Lancashire,Kirkby,Knowsley,1966,kirk1005,Park,R. Tomlinson,Lib,739,0,1,1,,1276,,57.91536,,
+kirk165,1966kirk1005,Lancashire,Kirkby,Knowsley,1966,kirk1005,Park,A. Thomas,Lab,487,0,1,2,,1276,,38.16615,,
+kirk166,1966kirk1005,Lancashire,Kirkby,Knowsley,1966,kirk1005,Park,H. Butterworth,Con,29,0,1,3,,1276,,2.272727,,
+kirk167,1966kirk1005,Lancashire,Kirkby,Knowsley,1966,kirk1005,Park,M. Cunningham,Comm,21,0,1,4,,1276,,1.645768,,
+kirk168,1966kirk1006,Lancashire,Kirkby,Knowsley,1966,kirk1006,Whitefield,W. Tomlinson,Lib,391,0,1,1,,774,,50.5168,,
+kirk169,1966kirk1006,Lancashire,Kirkby,Knowsley,1966,kirk1006,Whitefield,R. Orrett,Lab,329,0,1,2,,774,,42.50646,,
+kirk170,1966kirk1006,Lancashire,Kirkby,Knowsley,1966,kirk1006,Whitefield,S. Horton,Comm,27,0,1,3.5,,774,,3.488372,,
+kirk171,1966kirk1006,Lancashire,Kirkby,Knowsley,1966,kirk1006,Whitefield,R.. Evans,Con,27,0,1,3.5,,774,,3.488372,,
+kirk172,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,W. Marshall,Lab,489,0,2,1,,2025,,48.2963,,
+kirk173,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,A. Thomas,Lab,443,0,2,2,,2025,,43.75309,,
+kirk174,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,J. Cree,Lib,408,0,2,3,,2025,,40.2963,,
+kirk175,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,Mrs M. Harris,Lib,390,1,2,4,,2025,,38.51852,,
+kirk176,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,S. Denton,Con,224,0,2,5,,2025,,22.12346,,
+kirk177,1967kirk1001,Lancashire,Kirkby,Knowsley,1967,kirk1001,Central,J. W. Gamble,Comm,71,0,2,6,,2025,,7.012346,,
+kirk178,1967kirk1002,Lancashire,Kirkby,Knowsley,1967,kirk1002,Cherryfield,E. Hardisty,Lab,476,0,1,1,,993,,47.93555,,
+kirk179,1967kirk1002,Lancashire,Kirkby,Knowsley,1967,kirk1002,Cherryfield,W. Gregory,Lib,474,0,1,2,,993,,47.73414,,
+kirk180,1967kirk1002,Lancashire,Kirkby,Knowsley,1967,kirk1002,Cherryfield,J. Myers,Comm,43,0,1,3,,993,,4.330312,,
+kirk181,1967kirk1003,Lancashire,Kirkby,Knowsley,1967,kirk1003,Minstead,Mrs D. Gregory,Lib,356,1,1,1,,729,,48.83402,,
+kirk182,1967kirk1003,Lancashire,Kirkby,Knowsley,1967,kirk1003,Minstead,W. Lee,Lab,315,0,1,2,,729,,43.20988,,
+kirk183,1967kirk1003,Lancashire,Kirkby,Knowsley,1967,kirk1003,Minstead,S. Donnelly,Comm,58,0,1,3,,729,,7.956104,,
+kirk184,1967kirk1004,Lancashire,Kirkby,Knowsley,1967,kirk1004,Northwood,Mrs J. Hunter,Lab,352,1,1,1,,818,,43.03178,,
+kirk185,1967kirk1004,Lancashire,Kirkby,Knowsley,1967,kirk1004,Northwood,E. Crowley,Lib,320,0,1,2,,818,,39.1198,,
+kirk186,1967kirk1004,Lancashire,Kirkby,Knowsley,1967,kirk1004,Northwood,A. E. Dray,Con,106,0,1,3,,818,,12.95844,,
+kirk187,1967kirk1004,Lancashire,Kirkby,Knowsley,1967,kirk1004,Northwood,T. Staples,Comm,40,0,1,4,,818,,4.889976,,
+kirk188,1967kirk1005,Lancashire,Kirkby,Knowsley,1967,kirk1005,Park,R. E. Magee,Lib,710,0,1,1,,1289,,55.08146,,
+kirk189,1967kirk1005,Lancashire,Kirkby,Knowsley,1967,kirk1005,Park,W. Rogers,Lab,359,0,1,2,,1289,,27.85105,,
+kirk190,1967kirk1005,Lancashire,Kirkby,Knowsley,1967,kirk1005,Park,E. H. Gaskell,Con,190,0,1,3,,1289,,14.74011,,
+kirk191,1967kirk1005,Lancashire,Kirkby,Knowsley,1967,kirk1005,Park,M. Cunningham,Comm,30,0,1,4,,1289,,2.327386,,
+kirk192,1967kirk1006,Lancashire,Kirkby,Knowsley,1967,kirk1006,Whitefield,V. Crowley,Lib,520,0,1,1,,1126,,46.18117,,
+kirk193,1967kirk1006,Lancashire,Kirkby,Knowsley,1967,kirk1006,Whitefield,T. Sayle,Lab,459,0,1,2,,1126,,40.76377,,
+kirk194,1967kirk1006,Lancashire,Kirkby,Knowsley,1967,kirk1006,Whitefield,R. Evans,Con,126,0,1,3,,1126,,11.19005,,
+kirk195,1967kirk1006,Lancashire,Kirkby,Knowsley,1967,kirk1006,Whitefield,T. Bradburn,Comm,21,0,1,4,,1126,,1.865009,,
+kirk196,1968kirk1001,Lancashire,Kirkby,Knowsley,1968,kirk1001,Central,A. Thomas,Lab,483,0,1,1,,1284,,37.61682,,
+kirk197,1968kirk1001,Lancashire,Kirkby,Knowsley,1968,kirk1001,Central,Mrs M. Harris,Lib,461,1,1,2,,1284,,35.90343,,
+kirk198,1968kirk1001,Lancashire,Kirkby,Knowsley,1968,kirk1001,Central,S. Denton,Con,289,0,1,3,,1284,,22.50779,,
+kirk199,1968kirk1001,Lancashire,Kirkby,Knowsley,1968,kirk1001,Central,J. Gamble,Comm,51,0,1,4,,1284,,3.971963,,
+kirk200,1968kirk1002,Lancashire,Kirkby,Knowsley,1968,kirk1002,Cherryfield,W. Gregory,Lib,697,0,1,1,,1175,,59.31915,,
+kirk201,1968kirk1002,Lancashire,Kirkby,Knowsley,1968,kirk1002,Cherryfield,A. Cook,Lab,344,0,1,2,,1175,,29.2766,,
+kirk202,1968kirk1002,Lancashire,Kirkby,Knowsley,1968,kirk1002,Cherryfield,P. Shelton,Con,104,0,1,3,,1175,,8.851064,,
+kirk203,1968kirk1002,Lancashire,Kirkby,Knowsley,1968,kirk1002,Cherryfield,J. Staples,Comm,30,0,1,4,,1175,,2.553191,,
+kirk204,1968kirk1003,Lancashire,Kirkby,Knowsley,1968,kirk1003,Minstead,A. Dutton,Lib,316,0,1,1,,744,,42.47312,,
+kirk205,1968kirk1003,Lancashire,Kirkby,Knowsley,1968,kirk1003,Minstead,D. Smith,Lab,260,0,1,2,,744,,34.94624,,
+kirk206,1968kirk1003,Lancashire,Kirkby,Knowsley,1968,kirk1003,Minstead,J. Clark,Con,89,0,1,3,,744,,11.96237,,
+kirk207,1968kirk1003,Lancashire,Kirkby,Knowsley,1968,kirk1003,Minstead,S. Donnelly,Comm,79,0,1,4,,744,,10.61828,,
+kirk208,1968kirk1004,Lancashire,Kirkby,Knowsley,1968,kirk1004,Northwood,J. Chambers,Lab,414,0,1,1,,915,,45.2459,,
+kirk209,1968kirk1004,Lancashire,Kirkby,Knowsley,1968,kirk1004,Northwood,J. Cree,Lib,300,0,1,2,,915,,32.78688,,
+kirk210,1968kirk1004,Lancashire,Kirkby,Knowsley,1968,kirk1004,Northwood,A. Dray,Con,144,0,1,3,,915,,15.73771,,
+kirk211,1968kirk1004,Lancashire,Kirkby,Knowsley,1968,kirk1004,Northwood,T. Staples,Comm,57,0,1,4,,915,,6.229508,,
+kirk212,1968kirk1005,Lancashire,Kirkby,Knowsley,1968,kirk1005,Park,E. Crowley,Lib,887,0,1,1,,1430,,62.02797,,
+kirk213,1968kirk1005,Lancashire,Kirkby,Knowsley,1968,kirk1005,Park,J. Hackett,Lab,322,0,1,2,,1430,,22.51748,,
+kirk214,1968kirk1005,Lancashire,Kirkby,Knowsley,1968,kirk1005,Park,H. Butterworth,Con,168,0,1,3,,1430,,11.74825,,
+kirk215,1968kirk1005,Lancashire,Kirkby,Knowsley,1968,kirk1005,Park,P. Cunningham,Comm,53,0,1,4,,1430,,3.706294,,
+kirk216,1968kirk1006,Lancashire,Kirkby,Knowsley,1968,kirk1006,Whitefield,J. Kelly,Lib,478,0,1,1,,1117,,42.7932,,
+kirk217,1968kirk1006,Lancashire,Kirkby,Knowsley,1968,kirk1006,Whitefield,D. Tempest,Lab,397,0,1,2,,1117,,35.54163,,
+kirk218,1968kirk1006,Lancashire,Kirkby,Knowsley,1968,kirk1006,Whitefield,R. Evans,Con,197,0,1,3,,1117,,17.63653,,
+kirk219,1968kirk1006,Lancashire,Kirkby,Knowsley,1968,kirk1006,Whitefield,T. Bradburn,Comm,45,0,1,4,,1117,,4.028648,,
+kirk220,1969kirk2001,Lancashire,Kirkby,Knowsley,1969,kirk2001,Central,E. G. Russell,Lib,631,0,1,1,,1497,,42.15097,,
+kirk221,1969kirk2001,Lancashire,Kirkby,Knowsley,1969,kirk2001,Central,K. R. Cooper,Lab,629,0,1,2,,1497,,42.01737,,
+kirk222,1969kirk2001,Lancashire,Kirkby,Knowsley,1969,kirk2001,Central,S. Denton,Con,164,0,1,3,,1497,,10.95524,,
+kirk223,1969kirk2001,Lancashire,Kirkby,Knowsley,1969,kirk2001,Central,J. W. Gamble,Comm,73,0,1,4,,1497,,4.87642,,
+kirk224,1969kirk2002,Lancashire,Kirkby,Knowsley,1969,kirk2002,Cherryfield,W. Tomlinson,Lib,696,0,1,1,,1365,,50.98901,,
+kirk225,1969kirk2002,Lancashire,Kirkby,Knowsley,1969,kirk2002,Cherryfield,J. P. King,Lab,541,0,1,2,,1365,,39.6337,,
+kirk226,1969kirk2002,Lancashire,Kirkby,Knowsley,1969,kirk2002,Cherryfield,P. A. Shelton,Con,90,0,1,3,,1365,,6.593407,,
+kirk227,1969kirk2002,Lancashire,Kirkby,Knowsley,1969,kirk2002,Cherryfield,J. McLoughlin,Comm,38,0,1,4,,1365,,2.783883,,
+kirk228,1969kirk2003,Lancashire,Kirkby,Knowsley,1969,kirk2003,Minstead,F. Lawler,Lab,525,0,1,1,,989,,53.08392,,
+kirk229,1969kirk2003,Lancashire,Kirkby,Knowsley,1969,kirk2003,Minstead,Mrs M. Harris,Lib,379,1,1,2,,989,,38.32154,,
+kirk230,1969kirk2003,Lancashire,Kirkby,Knowsley,1969,kirk2003,Minstead,S. Donnelly,Comm,85,0,1,3,,989,,8.59454,,
+kirk231,1969kirk2004,Lancashire,Kirkby,Knowsley,1969,kirk2004,Northwood,G. Bundred,Lab,525,0,1,1,,994,,52.8169,,
+kirk232,1969kirk2004,Lancashire,Kirkby,Knowsley,1969,kirk2004,Northwood,J. Woods,Lib,276,0,1,2,,994,,27.7666,,
+kirk233,1969kirk2004,Lancashire,Kirkby,Knowsley,1969,kirk2004,Northwood,A. E. J. Dray,Con,154,0,1,3,,994,,15.49296,,
+kirk234,1969kirk2004,Lancashire,Kirkby,Knowsley,1969,kirk2004,Northwood,T. J. Staples,Comm,39,0,1,4,,994,,3.923541,,
+kirk235,1969kirk2005,Lancashire,Kirkby,Knowsley,1969,kirk2005,Park,R. Tomlinson,Lib,1076,0,1,1,,1789,,60.14533,,
+kirk236,1969kirk2005,Lancashire,Kirkby,Knowsley,1969,kirk2005,Park,R. Orrett,Lab,534,0,1,2,,1789,,29.84908,,
+kirk237,1969kirk2005,Lancashire,Kirkby,Knowsley,1969,kirk2005,Park,R. M. Douglas,Con,179,0,1,3,,1789,,10.00559,,
+kirk238,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,D. Tempest,Lab,234,0,3,1,,1223,,57.39984,,
+kirk239,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,D. Smith,Lab,203,0,3,2,,1223,,49.79559,,
+kirk240,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,T. Graves,Lab,193,0,3,3,,1223,,47.3426,,
+kirk241,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,J. H. Wolfe,Lib,148,0,3,4,,1223,,36.30417,,
+kirk242,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,J. F. Woodward,Lib,144,0,3,5,,1223,,35.32298,,
+kirk243,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,C. Hickey,Lib,143,0,3,6,,1223,,35.07768,,
+kirk244,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,G. H. Clark,Con,45,0,3,7,,1223,,11.03843,,
+kirk245,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,H. R. Butterworth,Con,40,0,3,8,,1223,,9.811938,,
+kirk246,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,T. W. Staples,Comm,38,0,3,9,,1223,,9.321341,,
+kirk247,1969kirk2006,Lancashire,Kirkby,Knowsley,1969,kirk2006,Tower Hill,W. Alsop,Con,35,0,3,10,,1223,,8.585445,,
+kirk248,1969kirk2007,Lancashire,Kirkby,Knowsley,1969,kirk2007,Whitefield,J. Cree,Lib,850,0,1,1,,1330,,63.90977,,
+kirk249,1969kirk2007,Lancashire,Kirkby,Knowsley,1969,kirk2007,Whitefield,T. J. Sayle,Lab,303,0,1,2,,1330,,22.78196,,
+kirk250,1969kirk2007,Lancashire,Kirkby,Knowsley,1969,kirk2007,Whitefield,R. Evans,Con,144,0,1,3,,1330,,10.82707,,
+kirk251,1969kirk2007,Lancashire,Kirkby,Knowsley,1969,kirk2007,Whitefield,T. Bradburn,Comm,33,0,1,4,,1330,,2.481203,,
+kirk252,1970kirk2001,Lancashire,Kirkby,Knowsley,1970,kirk2001,Central,W. Marshall,Lab,954,0,1,1,,1477,,64.59039,,
+kirk253,1970kirk2001,Lancashire,Kirkby,Knowsley,1970,kirk2001,Central,Mrs M. J. Hodder,Lib,523,1,1,2,,1477,,35.40961,,
+kirk254,1970kirk2002,Lancashire,Kirkby,Knowsley,1970,kirk2002,Cherryfield,E. Hardisty,Lab,946,0,2,1,,2857,,66.22331,,
+kirk255,1970kirk2002,Lancashire,Kirkby,Knowsley,1970,kirk2002,Cherryfield,R. Orrett,Lab,854,0,2,2,,2857,,59.78299,,
+kirk256,1970kirk2002,Lancashire,Kirkby,Knowsley,1970,kirk2002,Cherryfield,J. P. Roberts,Lib,490,0,2,3,,2857,,34.30172,,
+kirk257,1970kirk2002,Lancashire,Kirkby,Knowsley,1970,kirk2002,Cherryfield,J. F. Woodward,Lib,481,0,2,4,,2857,,33.67168,,
+kirk258,1970kirk2002,Lancashire,Kirkby,Knowsley,1970,kirk2002,Cherryfield,G. Matthews,Com,86,0,2,5,,2857,,6.020301,,
+kirk259,1970kirk2003,Lancashire,Kirkby,Knowsley,1970,kirk2003,Minstead,J. P. King,Lab,731,0,1,1,,1173,,62.31884,,
+kirk260,1970kirk2003,Lancashire,Kirkby,Knowsley,1970,kirk2003,Minstead,T. Smedley,Lib,244,0,1,2,,1173,,20.80136,,
+kirk261,1970kirk2003,Lancashire,Kirkby,Knowsley,1970,kirk2003,Minstead,Mrs F. Clarke,D.R.A.G,159,1,1,3,,1173,,13.55499,,
+kirk262,1970kirk2003,Lancashire,Kirkby,Knowsley,1970,kirk2003,Minstead,S. Donnelly,Comm,39,0,1,4,,1173,,3.324808,,
+kirk263,1970kirk2004,Lancashire,Kirkby,Knowsley,1970,kirk2004,Northwood,P. W. Andrews,Lab,864,0,1,1,,1273,,67.87117,,
+kirk264,1970kirk2004,Lancashire,Kirkby,Knowsley,1970,kirk2004,Northwood,J. H. Wolfe,Lib,253,0,1,2,,1273,,19.87431,,
+kirk265,1970kirk2004,Lancashire,Kirkby,Knowsley,1970,kirk2004,Northwood,A. E. Dray,Con,125,0,1,3,,1273,,9.819324,,
+kirk266,1970kirk2004,Lancashire,Kirkby,Knowsley,1970,kirk2004,Northwood,T. J. Staples,Comm,31,0,1,4,,1273,,2.435192,,
+kirk268,1970kirk2005,Lancashire,Kirkby,Knowsley,1970,kirk2005,Park,J. Woods,Lib,700,0,1,1,,1347,,51.96733,,
+kirk267,1970kirk2005,Lancashire,Kirkby,Knowsley,1970,kirk2005,Park,J. Pendergast,Lab,511,0,1,2,,1347,,37.93615,,
+kirk269,1970kirk2005,Lancashire,Kirkby,Knowsley,1970,kirk2005,Park,W. Alsop,Con,136,0,1,3,,1347,,10.09651,,
+kirk270,1970kirk2006,Lancashire,Kirkby,Knowsley,1970,kirk2006,Tower Hill,J. Wylie,Lab,316,0,1,1,,428,,73.83178,,
+kirk271,1970kirk2006,Lancashire,Kirkby,Knowsley,1970,kirk2006,Tower Hill,M. Atkinson,Lib,70,0,1,2,,428,,16.35514,,
+kirk272,1970kirk2006,Lancashire,Kirkby,Knowsley,1970,kirk2006,Tower Hill,G. H. Clark,Con,26,0,1,3,,428,,6.074766,,
+kirk273,1970kirk2006,Lancashire,Kirkby,Knowsley,1970,kirk2006,Tower Hill,T. Bradburn,Comm,16,0,1,4,,428,,3.738318,,
+kirk274,1970kirk2007,Lancashire,Kirkby,Knowsley,1970,kirk2007,Whitefield,V. Crowley,Lib,802,0,1,1,,1533,,52.31572,,
+kirk275,1970kirk2007,Lancashire,Kirkby,Knowsley,1970,kirk2007,Whitefield,T. J. Sayle,Lab,670,0,1,2,,1533,,43.70515,,
+kirk276,1970kirk2007,Lancashire,Kirkby,Knowsley,1970,kirk2007,Whitefield,R. Evans,Con,61,0,1,3,,1533,,3.979126,,
+kirk277,1971kirk2001,Lancashire,Kirkby,Knowsley,1971,kirk2001,Central,A. Thomas,Lab,1370,0,1,1,,1715,,79.88338,,
+kirk278,1971kirk2001,Lancashire,Kirkby,Knowsley,1971,kirk2001,Central,Ms. M. Hodder,Lib,345,1,1,2,,1715,,20.11662,,
+kirk279,1971kirk2002,Lancashire,Kirkby,Knowsley,1971,kirk2002,Cherryfield,R. Orrett,Lab,1092,0,1,1,,1424,,76.68539,,
+kirk280,1971kirk2002,Lancashire,Kirkby,Knowsley,1971,kirk2002,Cherryfield,J. Broughton,Lib,332,0,1,2,,1424,,23.31461,,
+kirk281,1971kirk2003,Lancashire,Kirkby,Knowsley,1971,kirk2003,Minstead,J. Hackett,Lab,1136,0,1,1,,1369,,82.98028,,
+kirk282,1971kirk2003,Lancashire,Kirkby,Knowsley,1971,kirk2003,Minstead,A. Dutton,Lib,173,0,1,2,,1369,,12.63696,,
+kirk283,1971kirk2003,Lancashire,Kirkby,Knowsley,1971,kirk2003,Minstead,S. Donnelly,Comm,60,0,1,3,,1369,,4.382761,,
+kirk284,1971kirk2004,Lancashire,Kirkby,Knowsley,1971,kirk2004,Northwood,J. Chambers,Lab,1248,0,1,1,,1488,,83.87096,,
+kirk285,1971kirk2004,Lancashire,Kirkby,Knowsley,1971,kirk2004,Northwood,W. McFadden,Lib,118,0,1,2,,1488,,7.930108,,
+kirk286,1971kirk2004,Lancashire,Kirkby,Knowsley,1971,kirk2004,Northwood,A. Dray,Con,73,0,1,3,,1488,,4.905914,,
+kirk287,1971kirk2004,Lancashire,Kirkby,Knowsley,1971,kirk2004,Northwood,T. Staples,Comm,49,0,1,4,,1488,,3.293011,,
+kirk288,1971kirk2005,Lancashire,Kirkby,Knowsley,1971,kirk2005,Park,H. Alldritt,Lab,1336,0,1,1,,2151,,62.11065,,
+kirk289,1971kirk2005,Lancashire,Kirkby,Knowsley,1971,kirk2005,Park,E. Crowley,Lib,587,0,1,2,,2151,,27.28963,,
+kirk290,1971kirk2005,Lancashire,Kirkby,Knowsley,1971,kirk2005,Park,P. Murphy,Con,228,0,1,3,,2151,,10.59972,,
+kirk291,1971kirk2006,Lancashire,Kirkby,Knowsley,1971,kirk2006,Tower Hill,J. Bennett,T.H.T.A,525,0,1,1,,917,,57.25191,,
+kirk292,1971kirk2006,Lancashire,Kirkby,Knowsley,1971,kirk2006,Tower Hill,D. Smith,Lab,346,0,1,2,,917,,37.73174,,
+kirk293,1971kirk2006,Lancashire,Kirkby,Knowsley,1971,kirk2006,Tower Hill,P. Ralph,Lib,46,0,1,3,,917,,5.016358,,
+kirk294,1971kirk2007,Lancashire,Kirkby,Knowsley,1971,kirk2007,Whitefield,T. Fitzmaurice,Lab,1050,0,1,1,,1606,,65.37983,,
+kirk295,1971kirk2007,Lancashire,Kirkby,Knowsley,1971,kirk2007,Whitefield,J. Kelly,Lib,527,0,1,2,,1606,,32.81445,,
+kirk296,1971kirk2007,Lancashire,Kirkby,Knowsley,1971,kirk2007,Whitefield,T. Bradburn,Comm,29,0,1,3,,1606,,1.805729,,
+kirk297,1972kirk2001,Lancashire,Kirkby,Knowsley,1972,kirk2001,Central,B. O'Brien,Lab,1228,0,1,1,,1992,,61.64659,,
+kirk298,1972kirk2001,Lancashire,Kirkby,Knowsley,1972,kirk2001,Central,B. Black,KHF,385,0,1,2,,1992,,19.32731,,
+kirk299,1972kirk2001,Lancashire,Kirkby,Knowsley,1972,kirk2001,Central,E. Russell,Lib,329,0,1,3,,1992,,16.51606,,
+kirk300,1972kirk2001,Lancashire,Kirkby,Knowsley,1972,kirk2001,Central,M. Cunningham,Comm,50,0,1,4,,1992,,2.51004,,
+kirk301,1972kirk2002,Lancashire,Kirkby,Knowsley,1972,kirk2002,Cherryfield,D. Smith,Lab,963,0,1,1,,1402,,68.68759,,
+kirk302,1972kirk2002,Lancashire,Kirkby,Knowsley,1972,kirk2002,Cherryfield,R. Griffiths,Lib,439,0,1,2,,1402,,31.31241,,
+kirk303,1972kirk2003,Lancashire,Kirkby,Knowsley,1972,kirk2003,Minstead,F. Lawler,Lab,1185,0,1,1,,1469,,80.66712,,
+kirk304,1972kirk2003,Lancashire,Kirkby,Knowsley,1972,kirk2003,Minstead,A. Dutton,Lib,231,0,1,2,,1469,,15.72498,,
+kirk305,1972kirk2003,Lancashire,Kirkby,Knowsley,1972,kirk2003,Minstead,S. Donnelly,Comm,53,0,1,3,,1469,,3.607897,,
+kirk306,1972kirk2004,Lancashire,Kirkby,Knowsley,1972,kirk2004,Northwood,G. Bundred,Lab,1160,0,1,1,,1380,,84.05797,,
+kirk307,1972kirk2004,Lancashire,Kirkby,Knowsley,1972,kirk2004,Northwood,W. McFadden,Lib,172,0,1,2,,1380,,12.46377,,
+kirk308,1972kirk2004,Lancashire,Kirkby,Knowsley,1972,kirk2004,Northwood,T. Bradburn,Comm,48,0,1,3,,1380,,3.478261,,
+kirk309,1972kirk2005,Lancashire,Kirkby,Knowsley,1972,kirk2005,Park,D. Tempest,Lab,1129,0,1,1,,2328,,48.49656,,
+kirk310,1972kirk2005,Lancashire,Kirkby,Knowsley,1972,kirk2005,Park,E. Johnson,KHF,763,1,1,2,,2328,,32.77491,,
+kirk311,1972kirk2005,Lancashire,Kirkby,Knowsley,1972,kirk2005,Park,W. Tomlinson,Lib,436,0,1,3,,2328,,18.72852,,
+kirk312,1972kirk2006,Lancashire,Kirkby,Knowsley,1972,kirk2006,Tower Hill,H. Rotherham,Lab,372,0,1,1,,685,,54.30657,,
+kirk313,1972kirk2006,Lancashire,Kirkby,Knowsley,1972,kirk2006,Tower Hill,M. Lee,T.H.T.A,299,0,1,2,,685,,43.64964,,
+kirk314,1972kirk2006,Lancashire,Kirkby,Knowsley,1972,kirk2006,Tower Hill,G. Matthews,Comm,14,0,1,3,,685,,2.043796,,
+kirk315,1972kirk2007,Lancashire,Kirkby,Knowsley,1972,kirk2007,Whitefield,B. Walsh,Lab,1071,0,1,1,,1725,,62.08696,,
+kirk316,1972kirk2007,Lancashire,Kirkby,Knowsley,1972,kirk2007,Whitefield,J. Kelly,Lib,654,0,1,2,,1725,,37.91304,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
